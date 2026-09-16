@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.klu.controller.VehicleControllerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.325 s -- in com.klu.controller.VehicleControllerTest
